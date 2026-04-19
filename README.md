@@ -12,12 +12,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlopperOnTTv&layout=compact&theme=radical"/>
 </p>
-
-<p align="center">
-  <a href="https://www.tiktok.com/@flopperisths">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@FlopperTv">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
