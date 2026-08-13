@@ -8,7 +8,3 @@
 <p align="center">
     <img src="https://lanyard.cnrad.dev/api/1079429643070873740?hideDecoration=true&hideStatus=true&hideBadges=true&theme=dark"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlopperOnTTv&layout=compact&theme=radical"/>
-</p>
