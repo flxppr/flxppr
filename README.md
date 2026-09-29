@@ -9,7 +9,6 @@ Just a guy doing guy things.
 ![](https://streak-stats.demolab.com/?user=FlopperOnTTv&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=FlopperOnTTv&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✨ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&backgroundColor=000000)
 <!-- gprm the goat ngl -->
