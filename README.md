@@ -12,3 +12,7 @@ Just a guy doing guy things.
 ### ✨ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&backgroundColor=000000)
 <!-- gprm the goat ngl -->
+
+
+what if this worked
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
