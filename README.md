@@ -11,5 +11,5 @@ Just a guy doing guy things.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&backgroundColor=000000)
 <!-- gprm the goat ngl -->
