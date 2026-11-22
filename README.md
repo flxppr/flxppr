@@ -4,5 +4,5 @@
 ![](https://streak-stats.demolab.com/?user=flxppr&theme=dark&hide_border=true)<br/>
 
 ### ✨ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&backgroundColor=000000)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&backgroundColor=0D1117)
 <!-- gprm the goat ngl -->
